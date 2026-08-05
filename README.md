@@ -1,6 +1,4 @@
 #  Hi, I'm Eya Ben Fredj
-
-
 ---
 
 ##  About Me
