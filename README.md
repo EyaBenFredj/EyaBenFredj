@@ -6,14 +6,9 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm an **AI Engineer** specializing in **NLP** and **Generative AI** systems, passionate about transforming raw data into actionable knowledge. I design and build production-ready AI solutions, from LLM architectures and RAG pipelines to orchestrated AI agents and MLOps infrastructure.
-
-- 🔭 Currently building **Cognix**, an enterprise knowledge capitalization platform at Sofrecom (Orange Group)
-- 🌱 Exploring advanced LLM fine-tuning and agentic AI systems
-- 💡 I turn complex problems into elegant, scalable solutions
-- 🎯 Rigorous, committed, and driven by impact
 
 ---
 
@@ -54,62 +49,13 @@ I'm an **AI Engineer** specializing in **NLP** and **Generative AI** systems, pa
 
 ---
 
-## 💼 Experience
 
-### 🚀 AI Engineer | Sofrecom (Orange Group) | *Feb 2026 - Present*
-**Cognix - Enterprise Knowledge Capitalization Platform**
-- Built an AI platform that automatically ingests meetings, documents, emails, and notes
-- Designed a natural language AI assistant for querying institutional knowledge
-- Implemented custom RAG pipeline with LLaMA 3.3 70B and FastAPI
-- Integrated Whisper for multilingual transcription (Tunisian dialect, Arabic, French, English)
-- **Impact:** Cut new hire onboarding time by replacing tribal knowledge with instant, verified answers
-
-### 🎯 AI Intern | Sofrecom (Orange Group) | *Jul - Aug 2025*
-**MeetSense: Speech-to-Knowledge Platform**
-- Developed a multilingual platform transforming meeting conversations into structured, queryable knowledge
-- Implemented Whisper/Faster-Whisper for dialect handling
-- Built LlamaIndex with hybrid search for transcription indexing
-- Deployed with Streamlit/Flask with secure connections
-
-### 🔒 Cybersecurity Intern | BIAT | *Aug 2024*
-- Collaborated with cybersecurity, network, and data teams on IT infrastructure
-- Participated in ISO 27001 and 27005 standard implementation
-- Built foundational knowledge for secure AI system deployment
-
-### 📊 Data Intern | LUXOR Technology and Trade | *Jul 2024*
-- Designed a logistics optimization tool in Python and MySQL
-- Created interactive dashboards and reporting systems
-- Automated complex cost calculations with rule-based logic
-
----
-
-## 🎓 Education
-
-| Institution | Program | Year |
-|-------------|---------|------|
-| National School of Engineers of Sousse (ENISO) | Computer Engineering | 2023-2026 |
-| Preparatory Institute of Nabeul | Preparatory Classes (Math-Physics) | 2021-2023 |
-| | Baccalaureate in Mathematics | 2021 |
-
----
-
-## 🏆 Certifications
-
-- 🟠 Oracle - Generative AI Professional
-- 🟠 Oracle - Vector Search Professional  
-- 🟠 Oracle - AI Foundations Associate
-- 🟢 NVIDIA - Big Data Fundamentals
-- 🟢 NVIDIA - Deep Learning Essentials
-- 🔵 Google - Machine Learning & MLOps
-
----
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eya-ben-fredj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eya-ben-fredj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eya.benfredj@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.eyabenfredj.com)
 
 ---
 
