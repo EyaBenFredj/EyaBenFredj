@@ -53,7 +53,3 @@ I'm an **AI Engineer** specializing in **NLP** and **Generative AI** systems, pa
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eya.benfredj@email.com)
 
 ---
-
-<p align="center">
-  <i>"Building systems that transform raw data into actionable knowledge."</i>
-</p>
