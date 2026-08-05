@@ -1,8 +1,5 @@
 #  Hi, I'm Eya Ben Fredj
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A3E0&center=true&vCenter=true&width=800&lines=AI+Engineer;NLP+%26+GenAI+Specialist;MLOps+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
-</p>
 
 ---
 
